@@ -25,16 +25,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
----
-
-## 📌 Highlight Projects
-- 🧩 **[DDD & Hexagonal Example](#)** – Reference project for mentoring devs  
-- 🌍 **[Serverless + GraphQL API](#)** – Lightweight architecture for APIs  
-- 🎉 **[Side Project](#)** – (fun/creative project that shows off personality)
-- 🏛️ **[Legal Document Generator](#)** – Platform using **Kubernetes, Node.js, and Vue.js** to help a company automate and generate law documents efficiently
-- 📈 **[Qualified Leads Generator](#)** – System built with **Python, Serverless and AWS Services** to automate generation and delivery of qualified leads  
-
-
 ## 🌐 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/edward--losque/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
