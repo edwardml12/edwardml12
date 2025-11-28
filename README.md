@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🔹 Experienced with **Python, Node.js, and Vue.js**  
+- 🔹 Experienced with **Python, Node.js, React.js and Vue.js**  
 - 🔹 Knowledge in **Kubernetes, DDD, Hexagonal Architecture, and Serverless systems**  
 - 🔹 Mentor and team builder, helping devs grow with **best practices**  
 - 🔹 Exploring **GraphQL, distributed systems, and automation**  
