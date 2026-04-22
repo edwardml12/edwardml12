@@ -1,6 +1,6 @@
 # Hi there, I'm Edward 👋  
 
-💻 **Tech Lead @ Metha Energia** | Full Stack Engineer | Cloud Enthusiast  
+💻 Full Stack Engineer | Cloud Enthusiast | Tech Lead  
 
 ---
 
